@@ -19,6 +19,8 @@ from ultralytics import YOLO
 
 """create a mongoDB Conection and connect"""
 
+"""Press q to end the CV2"""
+
 @dataclass
 class ModelConfig:
     """Configuration settings for the YOLO model."""
@@ -592,7 +594,7 @@ def main():
 
         processed_frame = processor.process_frame(frame)  # Process the frame
 
-        cv2.imshow("Detection", processed_frame)  # Display the processed frame
+        cv2.imshow("Detection press""q"" to quit", processed_frame)  # Display the processed frame
         if cv2.waitKey(1) & 0xFF == ord("q"):
             break
 
