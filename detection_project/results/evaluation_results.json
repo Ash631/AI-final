@@ -1,0 +1,40 @@
+{
+    "mAP50-95": 0.8007392684401379,
+    "mAP50": 0.8841148347004641,
+    "precision": 0.9492753623188405,
+    "recall": 0.8023255813953488,
+    "fps": 0.0,
+    "inference_device": "cuda:0",
+    "class_metrics": {
+        "Cat": {
+            "precision": null,
+            "recall": null,
+            "mAP50": null
+        },
+        "Dog": {
+            "precision": null,
+            "recall": null,
+            "mAP50": null
+        },
+        "Bird": {
+            "precision": null,
+            "recall": null,
+            "mAP50": null
+        },
+        "Man": {
+            "precision": null,
+            "recall": null,
+            "mAP50": null
+        },
+        "Woman": {
+            "precision": null,
+            "recall": null,
+            "mAP50": null
+        },
+        "Human face": {
+            "precision": null,
+            "recall": null,
+            "mAP50": null
+        }
+    }
+}

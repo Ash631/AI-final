@@ -1,0 +1,11 @@
+names:
+- Cat
+- Dog
+- Bird
+- Man
+- Woman
+- Human face
+nc: 6
+test: C:\Users\kelyu\OneDrive\Documents\GitHub\Project_Directory_Structure\detection_project\data\yolo_format\test\images
+train: C:\Users\kelyu\OneDrive\Documents\GitHub\Project_Directory_Structure\detection_project\data\yolo_format\train\images
+val: C:\Users\kelyu\OneDrive\Documents\GitHub\Project_Directory_Structure\detection_project\data\yolo_format\val\images

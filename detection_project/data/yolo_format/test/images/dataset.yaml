@@ -1,0 +1,9 @@
+names:
+  0: Cat
+  1: Dog
+  2: Bird
+  3: Man
+  4: Woman
+  5: Human face
+path: C:\Users\kelyu\OneDrive\Documents\GitHub\Project_Directory_Structure\detection_project\data\yolo_format\test\images
+val: .\images\val\
