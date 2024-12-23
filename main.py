@@ -17,6 +17,8 @@ from tqdm import tqdm
 import torch
 from ultralytics import YOLO
 
+"""create a mongoDB Conection and connect"""
+
 @dataclass
 class ModelConfig:
     """Configuration settings for the YOLO model."""
